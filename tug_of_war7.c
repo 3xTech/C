@@ -26,18 +26,3 @@ int main(void){
     printf("Total weight for team 1: %d\nTotal weight for team 2: %d", t_w1, t_w2);
     return 0;
 }
-
-/*Input
-4
-110
-106
-113
-102
-112
-121
-117
-111
-Output
-Team 1 has an advantage
-Total weight for team 1: 452
-Total weight for team 2: 440*/
